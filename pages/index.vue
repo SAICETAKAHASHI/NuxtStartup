@@ -1,9 +1,3 @@
-<script lang="ts" setup></script>
-
 <template>
-  <div>
-    <h1>Index Page</h1>
-  </div>
+  <div class="text-3xl font-bold underline">トップ</div>
 </template>
-
-<style scoped></style>

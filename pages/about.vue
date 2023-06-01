@@ -1,9 +1,3 @@
-<script lang="ts" setup></script>
-
 <template>
-  <div>
-    <h1>about Page</h1>
-  </div>
+  <div class="text-6xl font-bold underline">ABOUT</div>
 </template>
-
-<style scoped></style>
